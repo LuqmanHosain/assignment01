@@ -3,7 +3,7 @@
     font-family:'work sans';
 }
 .header{
-    width: 1600px;
+    width: 100%;
     height: 650px;
     
     background-position: center;
@@ -16,7 +16,7 @@
 }
 .header-text{
     width: 528px;
-    margin-right: 200px;
+    margin-right: 100px;
     text-align: end;
     color: white;
 
@@ -31,13 +31,7 @@
 } 
 .header-text p{
     margin:15px 0;
-    
-    
-    
-   
 } 
-
-    
 
 .btn-primary{
     font-weight: 600;
@@ -51,16 +45,14 @@
 }
 .banner-middle{
     display: flex;
-    padding-top: 200px;
+    padding-top: 100px;
 }
 .banner-img{
-    width: 770;
-    height: 723.3;
-    
-    
+    width: 770px;
+    height: 723.3px; 
 }
 .banner-text{
-    padding-top: 200px;
+    padding-top: 300px;
     padding-right: 100px;
 }
  
@@ -107,7 +99,7 @@
 }
 
 .plans{
-    padding: 60px;
+    padding: 100px;
    
     
 }
@@ -154,7 +146,7 @@
     justify-content: center;
     background-color: black;
     color: #ffffff;
-    width: 1600px;
+    width: 100%;
     height: 577px;
    margin-top: 100px;
 }
